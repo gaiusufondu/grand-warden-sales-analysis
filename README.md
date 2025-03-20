@@ -104,7 +104,12 @@ March 20, 2025
 
 ---
 
-## 🔗 About
+## 📁 Files Included
 
-Developed by **Grand Warden Analytics Team** for internal and external stakeholders. This report is part of Grand Warden's commitment to data-driven business improvement.
+[The Excel Dashboard](https://drive.google.com/file/d/1D0zzmo4w9fAa6iL7wC_p9CiV8VrZhy5L/view?usp=drive_link) 
 
+## 🔍 How to Use
+
+1. [Download the excel file data here containing the dashboard](https://docs.google.com/spreadsheets/d/1gqlu4qkBJdor6gcN3oQK6F0A9tW-Xyox/edit?usp=drive_link&ouid=112991837850993117892&rtpof=true&sd=true)
+2. **Open** `` in **Excel**.
+3. Interact with the dashboard and explore sales trends.
